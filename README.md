@@ -43,11 +43,6 @@ Projeyi kendi bilgisayarınıza çekmek için aşağıdaki adımları izleyin:
 
 ---
 
-## 🎯 Ekran Görüntüsü
-
-![Weather App Screenshot](screenshot.png)
-
----
 
 ## 💡 Geliştirme Aşamaları
 
