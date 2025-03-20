@@ -66,8 +66,3 @@ Eğer projeye katkı sağlamak isterseniz:
 
 ---
 
-## 📚 Lisans
-
-MIT Lisansı © [Emre Bilge](https://github.com/Emre-Bilge)
-
----
